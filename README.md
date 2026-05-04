@@ -316,6 +316,8 @@ ecommerce-visual-copywriting-skill/
 
 ---
 
+##感谢https://linux.do/社区支持##
+
 ## 📄 License
 
 本项目采用 [MIT License](./LICENSE) 开源。
